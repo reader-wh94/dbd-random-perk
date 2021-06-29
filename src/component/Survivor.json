@@ -1,0 +1,390 @@
+{
+  "perks" : [
+    {
+      "name": "Ace in the Hole",
+      "url": "images/survivorPerks/IconPerks_aceInTheHole.png"
+    },
+    {
+      "name": "Adrenaline",
+      "url": "images/survivorPerks/IconPerks_adrenaline.png"
+    },
+    {
+      "name": "Aftercare",
+      "url": "images/survivorPerks/IconPerks_aftercare.png"
+    },
+    {
+      "name": "Alert",
+      "url": "images/survivorPerks/IconPerks_alert.png"
+    },
+    {
+      "name": "Any Means Necessary",
+      "url": "images/survivorPerks/IconPerks_anyMeansNecessary.png"
+    },
+    {
+      "name": "Appraisal",
+      "url": "images/survivorPerks/IconPerks_appraisal.png"
+    },
+    {
+      "name": "Autodidact",
+      "url": "images/survivorPerks/IconPerks_autodidact.png"
+    },
+    {
+      "name": "Babysitter",
+      "url": "images/survivorPerks/IconPerks_babysitter.png"
+    },
+    {
+      "name": "Balanced Landing",
+      "url": "images/survivorPerks/IconPerks_balancedLanding.png"
+    },
+    {
+      "name": "Better Together",
+      "url": "images/survivorPerks/IconPerks_betterTogether.png"
+    },
+    {
+      "name": "Bite the Bullet",
+      "url": "images/survivorPerks/IconPerks_biteTheBullet.png"
+    },
+    {
+      "name": "Blast Mine",
+      "url": "images/survivorPerks/IconPerks_blastMine.png"
+    },
+    {
+      "name": "Blood Pact",
+      "url": "images/survivorPerks/IconPerks_bloodPact.png"
+    },
+    {
+      "name": "Boil Over",
+      "url": "images/survivorPerks/IconPerks_boilOver.png"
+    },
+    {
+      "name": "Bond",
+      "url": "images/survivorPerks/IconPerks_bond.png"
+    },
+    {
+      "name": "Borrowed Time",
+      "url": "images/survivorPerks/IconPerks_borrowedTime.png"
+    },
+    {
+      "name": "Botany Knowledge",
+      "url": "images/survivorPerks/IconPerks_botanyKnowledge.png"
+    },
+    {
+      "name": "Breakdown",
+      "url": "images/survivorPerks/IconPerks_breakdown.png"
+    },
+    {
+      "name": "Breakout",
+      "url": "images/survivorPerks/IconPerks_breakout.png"
+    },
+    {
+      "name": "Buckle Up",
+      "url": "images/survivorPerks/IconPerks_buckleUp.png"
+    },
+    {
+      "name": "Built to Last",
+      "url": "images/survivorPerks/IconPerks_builtToLast.png"
+    },
+    {
+      "name": "Calm Spirit",
+      "url": "images/survivorPerks/IconPerks_calmSpirit.png"
+    },
+    {
+      "name": "Camaraderie",
+      "url": "images/survivorPerks/IconPerks_camaraderie.png"
+    },
+    {
+      "name": "Counterforce",
+      "url": "images/survivorPerks/IconPerks_counterforce.png"
+    },
+    {
+      "name": "Dance With Me",
+      "url": "images/survivorPerks/IconPerks_danceWithMe.png"
+    },
+    {
+      "name": "Dark Sense",
+      "url": "images/survivorPerks/IconPerks_darkSense.png"
+    },
+    {
+      "name": "Dead Hard",
+      "url": "images/survivorPerks/IconPerks_deadHard.png"
+    },
+    {
+      "name": "Deception",
+      "url": "images/survivorPerks/IconPerks_deception.png"
+    },
+    {
+      "name": "Decisive Strike",
+      "url": "images/survivorPerks/IconPerks_decisiveStrike.png"
+    },
+    {
+      "name": "Déjà Vu",
+      "url": "images/survivorPerks/IconPerks_dejaVu.png"
+    },
+    {
+      "name": "Deliverance",
+      "url": "images/survivorPerks/IconPerks_deliverance.png"
+    },
+    {
+      "name": "Desperate Measures",
+      "url": "images/survivorPerks/IconPerks_desperateMeasures.png"
+    },
+    {
+      "name": "Detective's Hunch",
+      "url": "images/survivorPerks/IconPerks_detectivesHunch.png"
+    },
+    {
+      "name": "Distortion",
+      "url": "images/survivorPerks/IconPerks_distortion.png"
+    },
+    {
+      "name": "Diversion",
+      "url": "images/survivorPerks/IconPerks_diversion.png"
+    },
+    {
+      "name": "Empathy",
+      "url": "images/survivorPerks/IconPerks_empathy.png"
+    },
+    {
+      "name": "Fast Track",
+      "url": "images/survivorPerks/IconPerks_fastTrack.png"
+    },
+    {
+      "name": "Fixated",
+      "url": "images/survivorPerks/IconPerks_fixated.png"
+    },
+    {
+      "name": "Flashbang",
+      "url": "images/survivorPerks/IconPerks_flashbang.png"
+    },
+    {
+      "name": "Filp-Flop",
+      "url": "images/survivorPerks/IconPerks_flip-Flop.png"
+    },
+    {
+      "name": "For the People",
+      "url": "images/survivorPerks/IconPerks_forThePeople.png"
+    },
+    {
+      "name": "Head On",
+      "url": "images/survivorPerks/IconPerks_headOn.png"
+    },
+    {
+      "name": "Hope",
+      "url": "images/survivorPerks/IconPerks_hope.png"
+    },
+    {
+      "name": "Inner Strength",
+      "url": "images/survivorPerks/IconPerks_innerStrength.png"
+    },
+    {
+      "name": "Iron Will",
+      "url": "images/survivorPerks/IconPerks_ironWill.png"
+    },
+    {
+      "name": "Kindred",
+      "url": "images/survivorPerks/IconPerks_kindred.png"
+    },
+    {
+      "name": "Leader",
+      "url": "images/survivorPerks/IconPerks_leader.png"
+    },
+    {
+      "name": "Left Behind",
+      "url": "images/survivorPerks/IconPerks_leftBehind.png"
+    },
+    {
+      "name": "Lightweight",
+      "url": "images/survivorPerks/IconPerks_lightweight.png"
+    },
+    {
+      "name": "Lithe",
+      "url": "images/survivorPerks/IconPerks_lithe.png"
+    },
+    {
+      "name": "Lucky Break",
+      "url": "images/survivorPerks/IconPerks_luckyBreak.png"
+    },
+    {
+      "name": "Mettle of Man",
+      "url": "images/survivorPerks/IconPerks_mettleOfMan.png"
+    },
+    {
+      "name": "No Mither",
+      "url": "images/survivorPerks/IconPerks_noMither.png"
+    },
+    {
+      "name": "No One Left Behind",
+      "url": "images/survivorPerks/IconPerks_noOneLeftBehind.png"
+    },
+    {
+      "name": "Object of Obsession",
+      "url": "images/survivorPerks/IconPerks_objectOfObsession.png"
+    },
+    {
+      "name": "Off the Record",
+      "url": "images/survivorPerks/IconPerks_offTheRecord.png"
+    },
+    {
+      "name": "Open-Handed",
+      "url": "images/survivorPerks/IconPerks_open-Handed.png"
+    },
+    {
+      "name": "Pharmacy",
+      "url": "images/survivorPerks/IconPerks_pharmacy.png"
+    },
+    {
+      "name": "Plunderer's Instinct",
+      "url": "images/survivorPerks/IconPerks_plunderersInstinct.png"
+    },
+    {
+      "name": "Poised",
+      "url": "images/survivorPerks/IconPerks_poised.png"
+    },
+    {
+      "name": "Power Struggle",
+      "url": "images/survivorPerks/IconPerks_powerStruggle.png"
+    },
+    {
+      "name": "Premonition",
+      "url": "images/survivorPerks/IconPerks_premonition.png"
+    },
+    {
+      "name": "Prove Thyself",
+      "url": "images/survivorPerks/IconPerks_proveThyself.png"
+    },
+    {
+      "name": "Quick & Quiet",
+      "url": "images/survivorPerks/IconPerks_quickAndQuiet.png"
+    },
+    {
+      "name": "Red Herring",
+      "url": "images/survivorPerks/IconPerks_redHerring.png"
+    },
+    {
+      "name": "Repressed Alliance",
+      "url": "images/survivorPerks/IconPerks_repressedAlliance.png"
+    },
+    {
+      "name": "Resilience",
+      "url": "images/survivorPerks/IconPerks_resilience.png"
+    },
+    {
+      "name": "Resurgence",
+      "url": "images/survivorPerks/IconPerks_resurgence.png"
+    },
+    {
+      "name": "Rookie Spirit",
+      "url": "images/survivorPerks/IconPerks_rookieSpirit.png"
+    },
+    {
+      "name": "Saboteur",
+      "url": "images/survivorPerks/IconPerks_saboteur.png"
+    },
+    {
+      "name": "Second Wind",
+      "url": "images/survivorPerks/IconPerks_secondWind.png"
+    },
+    {
+      "name": "Self-Care",
+      "url": "images/survivorPerks/IconPerks_self-Care.png"
+    },
+    {
+      "name": "Self-Preservation",
+      "url": "images/survivorPerks/IconPerks_self-Preservation.png"
+    },
+    {
+      "name": "Slippery Meat",
+      "url": "images/survivorPerks/IconPerks_slipperyMeat.png"
+    },
+    {
+      "name": "Small Game",
+      "url": "images/survivorPerks/IconPerks_smallGame.png"
+    },
+    {
+      "name": "Smash Hit",
+      "url": "images/survivorPerks/IconPerks_smashHit.png"
+    },
+    {
+      "name": "Sole Survivor",
+      "url": "images/survivorPerks/IconPerks_soleSurvivor.png"
+    },
+    {
+      "name": "Solidarity",
+      "url": "images/survivorPerks/IconPerks_solidarity.png"
+    },
+    {
+      "name": "Soul Guard",
+      "url": "images/survivorPerks/IconPerks_soulGuard.png"
+    },
+    {
+      "name": "Spine Chill",
+      "url": "images/survivorPerks/IconPerks_spineChill.png"
+    },
+    {
+      "name": "Sprint Burst",
+      "url": "images/survivorPerks/IconPerks_sprintBurst.png"
+    },
+    {
+      "name": "Stake Out",
+      "url": "images/survivorPerks/IconPerks_stakeOut.png"
+    },
+    {
+      "name": "Streetwise",
+      "url": "images/survivorPerks/IconPerks_streetwise.png"
+    },
+    {
+      "name": "Technician",
+      "url": "images/survivorPerks/IconPerks_technician.png"
+    },
+    {
+      "name": "Tenacity",
+      "url": "images/survivorPerks/IconPerks_tenacity.png"
+    },
+    {
+      "name": "This Is Not Happening",
+      "url": "images/survivorPerks/IconPerks_thisIsNotHappening.png"
+    },
+    {
+      "name": "Up the Ante",
+      "url": "images/survivorPerks/IconPerks_upTheAnte.png"
+    },
+    {
+      "name": "Unbreakable",
+      "url": "images/survivorPerks/IconPerks_unbreakable.png"
+    },
+    {
+      "name": "Urban Evasion",
+      "url": "images/survivorPerks/IconPerks_urbanEvasion.png"
+    },
+    {
+      "name": "Vigil",
+      "url": "images/survivorPerks/IconPerks_vigil.png"
+    },
+    {
+      "name": "Visionary",
+      "url": "images/survivorPerks/IconPerks_visionary.png"
+    },
+    {
+      "name": "Wake Up!",
+      "url": "images/survivorPerks/IconPerks_wakeUp.png"
+    },
+    {
+      "name": "We'll Make It",
+      "url": "images/survivorPerks/IconPerks_wellMakeIt.png"
+    },
+    {
+      "name": "We're Gonna Live Forever",
+      "url": "images/survivorPerks/IconPerks_wereGonnaLiveForever.png"
+    },
+    {
+      "name": "Windows of Opportunity",
+      "url": "images/survivorPerks/IconPerks_windowsOfOpportunity.png"
+    }
+  ],
+  "items": [
+
+  ],
+  "addOn": [
+    
+  ]
+}
