@@ -1,9 +1,9 @@
 import React from 'react';
-import data from './SurvivorPerk.json';
+import data from './Survivor.json';
 
 function SurvivorPerk () {
-  
-  let ImgData = data.data.map((detail, index) => {
+
+  let ImgData = data.perks.map((detail, index) => {
     
     return (
       <div key={index}>
