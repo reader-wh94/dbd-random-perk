@@ -1,5 +1,5 @@
 import Home from './component/Home';
-import SurvivorPerk from './component/SurvivorPerk';
+import styles from './App.css';
 
 function App() {
   return (
