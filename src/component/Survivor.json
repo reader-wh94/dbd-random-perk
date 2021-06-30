@@ -382,9 +382,301 @@
     }
   ],
   "items": [
+    {
+      "name": "Alex's Toolbox",
+      "url" : "images/survivorItems/Alex's_Toolbox.png"
+    },
+    {
+      "name": "Broken Key",
+      "url" : "images/survivorItems/Broken_Key.png"
+    },
+    {
+      "name": "Camping Aid Kit",
+      "url" : "images/survivorItems/Camping_Aid_Kit.png"
+    },
+    {
+      "name": "Chinese Firecracker",
+      "url" : "images/survivorItems/Chinese_Firecracker.png"
+    },
+    {
+      "name": "Commodious Toolbox",
+      "url" : "images/survivorItems/Commodious_Toolbox.png"
+    },
+    {
+      "name": "Dull Key",
+      "url" : "images/survivorItems/Dull_Key.png"
+    },
+    {
+      "name": "Emergency Med-Kit",
+      "url" : "images/survivorItems/Emergency_Med-Kit.png"
+    },
+    {
+      "name": "Engineer's Toolbox",
+      "url" : "images/survivorItems/Engineer's_Toolbox.png"
+    },
+    {
+      "name": "First Aid Kit",
+      "url" : "images/survivorItems/First_Aid_Kit.png"
+    },
+    {
+      "name": "Flashlight",
+      "url" : "images/survivorItems/Flashlight.png"
+    },
+    {
+      "name": "Map",
+      "url" : "images/survivorItems/Map.png"
+    },
+    {
+      "name": "Mechanic's Toolbox",
+      "url" : "images/survivorItems/Mechanic's_Toolbox.png"
+    },
+    {
+      "name": "Rainbow Map",
+      "url" : "images/survivorItems/Rainbow_Map.png"
+    },
+    {
+      "name": "Ranger Med-Kit",
+      "url" : "images/survivorItems/Ranger_Med-Kit.png"
+    },
+    {
+      "name": "Skeleton Key",
+      "url" : "images/survivorItems/Skeleton_Key.png"
+    },
+    {
+      "name": "Sport Flashlight",
+      "url" : "images/survivorItems/Sport_Flashlight.png"
+    },
+    {
+      "name": "Toolbox",
+      "url" : "images/survivorItems/Toolbox.png"
+    },
+    {
+      "name": "Utility Flashlight",
+      "url" : "images/survivorItems/Utility_Flashlight.png"
+    },
+    {
+      "name": "Winter Party Starter",
+      "url" : "images/survivorItems/Winter_Party_Starter.png"
+    },
+    {
+      "name": "Worn-Out Tools",
+      "url" : "images/survivorItems/Worn-Out_Tools.png"
+    }
 
   ],
-  "addOn": [
-    
+  "addOns": [
+    {
+      "name": "Abdominal Dressing",
+      "url": "images/survivorAddon/Abdominal Dressing.png"
+    },
+    {
+      "name": "Anti-Haemorrhagic Syringe",
+      "url": "images/survivorAddon/Anti-Haemorrhagic Syringe.png"
+    },
+    {
+      "name": "Bandages",
+      "url": "images/survivorAddon/Bandages.png"
+    },
+    {
+      "name": "Battery",
+      "url": "images/survivorAddon/Battery.png"
+    },
+    {
+      "name": "Black Silk Cord",
+      "url": "images/survivorAddon/Black Silk Cord.png"
+    },
+    {
+      "name": "Blood Amber",
+      "url": "images/survivorAddon/Blood Amber.png"
+    },
+    {
+      "name": "Brand New Part",
+      "url": "images/survivorAddon/Brand New Part.png"
+    },
+    {
+      "name": "Butterfly Tape",
+      "url": "images/survivorAddon/Butterfly Tape.png"
+    },
+    {
+      "name": "Clean Rag",
+      "url": "images/survivorAddon/Clean Rag.png"
+    },
+    {
+      "name": "Crystal Bead",
+      "url": "images/survivorAddon/Crystal Bead.png"
+    },
+    {
+      "name": "Cutting Wire",
+      "url": "images/survivorAddon/Cutting Wire.png"
+    },
+    {
+      "name": "Eroded Token",
+      "url": "images/survivorAddon/Eroded Token.png"
+    },
+    {
+      "name": "Focus Lens",
+      "url": "images/survivorAddon/Focus Lens.png"
+    },
+    {
+      "name": "Gauze Roll",
+      "url": "images/survivorAddon/Gauze Roll.png"
+    },
+    {
+      "name": "Gel Dressings",
+      "url": "images/survivorAddon/Gel Dressings.png"
+    },
+    {
+      "name": "Glass Bead",
+      "url": "images/survivorAddon/Glass Bead.png"
+    },
+    {
+      "name": "Gold Token",
+      "url": "images/survivorAddon/Gold Token.png"
+    },
+    {
+      "name": "Grip Wrench",
+      "url": "images/survivorAddon/Grip Wrench.png"
+    },
+    {
+      "name": "Hacksaw",
+      "url": "images/survivorAddon/Hacksaw.png"
+    },
+    {
+      "name": "Heavy Duty Battery",
+      "url": "images/survivorAddon/Heavy Duty Battery.png"
+    },
+    {
+      "name": "High-End Sapphire Lens",
+      "url": "images/survivorAddon/High-End Sapphire Lens.png"
+    },
+    {
+      "name": "Instructions",
+      "url": "images/survivorAddon/Instructions.png"
+    },
+    {
+      "name": "Intense Halogen",
+      "url": "images/survivorAddon/Intense Halogen.png"
+    },
+    {
+      "name": "Leather Grip",
+      "url": "images/survivorAddon/Leather Grip.png"
+    },
+    {
+      "name": "Long Life Battery",
+      "url": "images/survivorAddon/Long Life Battery.png"
+    },
+    {
+      "name": "Low Amp Filament",
+      "url": "images/survivorAddon/Low Amp Filament.png"
+    },
+    {
+      "name": "Map Addendum",
+      "url": "images/survivorAddon/Map Addendum.png"
+    },
+    {
+      "name": "Milky Glass",
+      "url": "images/survivorAddon/Milky Glass.png"
+    },
+    {
+      "name": "Needle & Thread",
+      "url": "images/survivorAddon/Needle & Thread.png"
+    },
+    {
+      "name": "Odd Bulb",
+      "url": "images/survivorAddon/Odd Bulb.png"
+    },
+    {
+      "name": "Odd Stamp",
+      "url": "images/survivorAddon/Odd Stamp.png"
+    },
+    {
+      "name": "Power Bulb",
+      "url": "images/survivorAddon/Power Bulb.png"
+    },
+    {
+      "name": "Prayer Beads",
+      "url": "images/survivorAddon/Prayer Beads.png"
+    },
+    {
+      "name": "Prayer Rope",
+      "url": "images/survivorAddon/Prayer Rope.png"
+    },
+    {
+      "name": "Protective Gloves",
+      "url": "images/survivorAddon/Protective Gloves.png"
+    },
+    {
+      "name": "Red Twine",
+      "url": "images/survivorAddon/Red Twine.png"
+    },
+    {
+      "name": "Retardant Jelly",
+      "url": "images/survivorAddon/Retardant Jelly.png"
+    },
+    {
+      "name": "Rubber Gloves",
+      "url": "images/survivorAddon/Rubber Gloves.png"
+    },
+    {
+      "name": "Rubber Grip",
+      "url": "images/survivorAddon/Rubber Grip.png"
+    },
+    {
+      "name": "Scraps",
+      "url": "images/survivorAddon/Scraps.png"
+    },
+    {
+      "name": "Scratched Pearl",
+      "url": "images/survivorAddon/Scratched Pearl.png"
+    },
+    {
+      "name": "Self Adherent Wrap",
+      "url": "images/survivorAddon/Self Adherent Wrap.png"
+    },
+    {
+      "name": "Socket Swivels",
+      "url": "images/survivorAddon/Socket Swivels.png"
+    },
+    {
+      "name": "Sponge",
+      "url": "images/survivorAddon/Sponge.png"
+    },
+    {
+      "name": "Spring Clamp",
+      "url": "images/survivorAddon/Spring Clamp.png"
+    },
+    {
+      "name": "Styptic Agent",
+      "url": "images/survivorAddon/Styptic Agent.png"
+    },
+    {
+      "name": "Surgical Suture",
+      "url": "images/survivorAddon/Surgical Suture.png"
+    },
+    {
+      "name": "Tir Optic",
+      "url": "images/survivorAddon/Tir Optic.png"
+    },
+    {
+      "name": "Unusual Stamp",
+      "url": "images/survivorAddon/Unusual Stamp.png"
+    },
+    {
+      "name": "Weaved Ring",
+      "url": "images/survivorAddon/Weaved Ring.png"
+    },
+    {
+      "name": "Wide Lens",
+      "url": "images/survivorAddon/Wide Lens.png"
+    },
+    {
+      "name": "Wire Spool",
+      "url": "images/survivorAddon/Wire Spool.png"
+    },
+    {
+      "name": "Yellow Wire",
+      "url": "images/survivorAddon/Yellow Wire.png"
+    }
+
   ]
 }

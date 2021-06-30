@@ -7,7 +7,6 @@ function Home() {
     <Basic>
       <h1>Dead By DayLight random perk page</h1>
       <br />
-      <h2>Random Perk</h2>
       <SurvivorPerk />
     </Basic>
   );
