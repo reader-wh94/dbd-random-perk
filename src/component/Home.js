@@ -5,7 +5,7 @@ import SurvivorPerk from './SurvivorPerk';
 function Home() {
   return (
     <Basic>
-      <h1>Dead By DayLight random perk page</h1>
+      <h1>Dead By Daylight random perk</h1>
       <br />
       <SurvivorPerk />
     </Basic>
@@ -13,8 +13,6 @@ function Home() {
 }
 
 const Basic = styled.div`
-  .h1 {
-    text-align: center;
-  }
+  text-align: center;
 `;
 export default Home;

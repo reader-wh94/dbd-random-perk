@@ -35,7 +35,7 @@ function SurvivorPerk() {
         return (
           <div key={index}>
             <div>
-              <img className="img" src={perks[detail].url} alt="pic" />
+              <img className="perkImg" src={perks[detail].url} alt="pic" />
             </div>
             <span className="perkName">{perks[detail].name}</span>
           </div>
@@ -56,7 +56,6 @@ function SurvivorPerk() {
       }));
     } else if(item === 'addon') {
       let array = getRandom(addOnsNum, 2);
-      console.log(array);
 
       setAddOnData(array.map((detail, index) => {
         return (
@@ -72,90 +71,105 @@ function SurvivorPerk() {
   }
   
   return (
-    <Perk>
-      <h2>Random Perk</h2>
-      <div className="perk">
+    <Home>
+      <Text>
+        <h2>Random Perk</h2>
         <PerkButton onClick={() => SelectPerks('perk')}>
           Click
         </PerkButton>
+      </Text>
+      <Perk>
         {perkData}
-      </div>
-      <h2>Random Item</h2>
-      <div className="item">
+      </Perk>
+      <Hr />
+      <Text>
+        <h2>Random Item</h2>
         <PerkButton onClick={() => SelectPerks('item')}>
           Click
         </PerkButton>
+      </Text>
+      <Item>
         {itemData}
-      </div>
-      <h2>Random AddOns</h2>
-      <div className="addOn">
+      </Item>
+      <Hr />
+      <Text>
+        <h2>Random AddOns</h2>
         <PerkButton onClick={() => SelectPerks('addon')}>
           Click
         </PerkButton>
+      </Text>
+      <AddOn>
         {addOnData}
-      </div>
-    </Perk>
+      </AddOn>
+    </Home>
   );
-
 }
 
-const Perk = styled.div`
-  display: inline-block;
+const Home = styled.div`
+  display: block;
+  text-align: center;
   font-size: 20px;
   color: #e38842;
   margin-bottom: 3rem;
-  
-  .perk {
-    display: inline-flex;
-    float: left;
-    margin-bottom: 2rem;
-    visible: hidden;
-  }
+`;
 
-  .addOn {
-    display: flex;
-    float: left;
-  }
-
-  .item {
-    display: flex;
-  }
-
-  .perkName {
-    font-size: 1.5rem;
-    color: #d9d9d9;
-  }
-
-  .img {
-    height: 85%;
-    maring-right: 0.5rem;
-  }
-
-  .itemName {
-    font-size: 1.5rem;
-    color: #d9d9d9;
-  }
-
-  .itemImg {
-    height: 50%;
-    maring-right: 0.5rem;
-  }
-
-  .addOnName {
-    font-size: 1.5rempx;
-    color: #d9d9d9;
-  }
-
-  .addOnImg {
-    height: 50%;
-    margin-right: 0.5rem;
+const Hr = styled.hr`
+  text-align: center;
+  width: 70rem;
+  border-bottom: 1px dashed #ccc;
+  background: #999;
   }
 `;
 
+const Text = styled.div`
+  display: block;
+`;
+
+const Perk = styled.div`
+  display: inline-box;
+  margin-bottom: 2rem;
+
+  .perkName {
+    font-size: 1.3rem;
+    color: #dcccff;
+  }
+
+  .perkImg {
+    margin-right: 0.5rem;
+    height: 15rem;
+  }
+`;
+
+const Item = styled.div`
+  margin-bottom: 2rem;
+
+  .itemName {
+    font-size: 1.3rem;
+    color: #dcccff;
+  }
+
+  .itemImg {
+    height: 14rem;
+  }
+`;
+
+const AddOn = styled.div`
+  display: inline-box;
+  margin-bottom: 2rem;
+
+  .addOnName {
+    font-size: 1.3rem;
+    color: #dcccff;
+  }
+
+  .addOnImg {
+    height: 14rem;
+  }
+`;
 
 const PerkButton = styled.button`
   /* 공통 스타일 */
-  display: inline-flex;
+  display: box;
   outline: none;
   border: none;
   border-radius: 4px;
