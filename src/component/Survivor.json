@@ -2,464 +2,579 @@
   "perks" : [
     {
       "name": "Ace in the Hole",
+      "name_kor": "비장의 패",
       "url": "images/survivorPerks/IconPerks_aceInTheHole.png"
     },
     {
       "name": "Adrenaline",
+      "name_kor": "아드레날린",
       "url": "images/survivorPerks/IconPerks_adrenaline.png"
     },
     {
       "name": "Aftercare",
+      "name_kor": "갱생 지도",
       "url": "images/survivorPerks/IconPerks_aftercare.png"
     },
     {
       "name": "Alert",
+      "name_kor": "기민함",
       "url": "images/survivorPerks/IconPerks_alert.png"
     },
     {
       "name": "Any Means Necessary",
+      "name_kor": "필요하다면 무엇이든",
       "url": "images/survivorPerks/IconPerks_anyMeansNecessary.png"
     },
     {
       "name": "Appraisal",
+      "name_kor": "판별",
       "url": "images/survivorPerks/IconPerks_appraisal.png"
     },
     {
       "name": "Autodidact",
+      "name_kor": "독학자",
       "url": "images/survivorPerks/IconPerks_autodidact.png"
     },
     {
       "name": "Babysitter",
+      "name_kor": "베이비시터",
       "url": "images/survivorPerks/IconPerks_babysitter.png"
     },
     {
       "name": "Balanced Landing",
+      "name_kor": "균형잡힌 착지",
       "url": "images/survivorPerks/IconPerks_balancedLanding.png"
     },
     {
       "name": "Better Together",
+      "name_kor": "함께라면 더 좋지",
       "url": "images/survivorPerks/IconPerks_betterTogether.png"
     },
     {
       "name": "Bite the Bullet",
+      "name_kor": "고통 참기",
       "url": "images/survivorPerks/IconPerks_biteTheBullet.png"
     },
     {
       "name": "Blast Mine",
+      "name_kor": "폭풍형 지뢰",
       "url": "images/survivorPerks/IconPerks_blastMine.png"
     },
     {
       "name": "Blood Pact",
+      "name_kor": "피의 협정",
       "url": "images/survivorPerks/IconPerks_bloodPact.png"
     },
     {
       "name": "Boil Over",
+      "name_kor": "폭발",
       "url": "images/survivorPerks/IconPerks_boilOver.png"
     },
     {
       "name": "Bond",
+      "name_kor": "유대감",
       "url": "images/survivorPerks/IconPerks_bond.png"
     },
     {
       "name": "Borrowed Time",
+      "name_kor": "빌려온 시간",
       "url": "images/survivorPerks/IconPerks_borrowedTime.png"
     },
     {
       "name": "Botany Knowledge",
+      "name_kor": "식물학 지식",
       "url": "images/survivorPerks/IconPerks_botanyKnowledge.png"
     },
     {
       "name": "Breakdown",
+      "name_kor": "부수기",
       "url": "images/survivorPerks/IconPerks_breakdown.png"
     },
     {
       "name": "Breakout",
+      "name_kor": "탈출",
       "url": "images/survivorPerks/IconPerks_breakout.png"
     },
     {
       "name": "Buckle Up",
+      "name_kor": "재정비",
       "url": "images/survivorPerks/IconPerks_buckleUp.png"
     },
     {
       "name": "Built to Last",
+      "name_kor": "견고함",
       "url": "images/survivorPerks/IconPerks_builtToLast.png"
     },
     {
       "name": "Calm Spirit",
+      "name_kor": "차분한 영혼",
       "url": "images/survivorPerks/IconPerks_calmSpirit.png"
     },
     {
       "name": "Camaraderie",
+      "name_kor": "동료애",
       "url": "images/survivorPerks/IconPerks_camaraderie.png"
     },
     {
       "name": "Counterforce",
+      "name_kor": "저항력",
       "url": "images/survivorPerks/IconPerks_counterforce.png"
     },
     {
       "name": "Dance With Me",
+      "name_kor": "나와 함께 춤을",
       "url": "images/survivorPerks/IconPerks_danceWithMe.png"
     },
     {
       "name": "Dark Sense",
+      "name_kor": "어두운 감각",
       "url": "images/survivorPerks/IconPerks_darkSense.png"
     },
     {
       "name": "Dead Hard",
+      "name_kor": "죽기살기",
       "url": "images/survivorPerks/IconPerks_deadHard.png"
     },
     {
       "name": "Deception",
+      "name_kor": "속임수",
       "url": "images/survivorPerks/IconPerks_deception.png"
     },
     {
       "name": "Decisive Strike",
+      "name_kor": "결정적인 일격",
       "url": "images/survivorPerks/IconPerks_decisiveStrike.png"
     },
     {
       "name": "Déjà Vu",
+      "name_kor": "데자뷰",
       "url": "images/survivorPerks/IconPerks_dejaVu.png"
     },
     {
       "name": "Deliverance",
+      "name_kor": "구조",
       "url": "images/survivorPerks/IconPerks_deliverance.png"
     },
     {
       "name": "Desperate Measures",
+      "name_kor": "필사의 조치",
       "url": "images/survivorPerks/IconPerks_desperateMeasures.png"
     },
     {
       "name": "Detective's Hunch",
+      "name_kor": "형사의 직감",
       "url": "images/survivorPerks/IconPerks_detectivesHunch.png"
     },
     {
       "name": "Distortion",
+      "name_kor": "뒤틀림",
       "url": "images/survivorPerks/IconPerks_distortion.png"
     },
     {
       "name": "Diversion",
+      "name_kor": "교란",
       "url": "images/survivorPerks/IconPerks_diversion.png"
     },
     {
       "name": "Empathy",
+      "name_kor": "공감",
       "url": "images/survivorPerks/IconPerks_empathy.png"
     },
     {
       "name": "Fast Track",
+      "name_kor": "고속 승진",
       "url": "images/survivorPerks/IconPerks_fastTrack.png"
     },
     {
       "name": "Fixated",
+      "name_kor": "시선 고정",
       "url": "images/survivorPerks/IconPerks_fixated.png"
     },
     {
       "name": "Flashbang",
+      "name_kor": "섬광탄",
       "url": "images/survivorPerks/IconPerks_flashbang.png"
     },
     {
       "name": "Filp-Flop",
+      "name_kor": "슬리피",
       "url": "images/survivorPerks/IconPerks_flip-Flop.png"
     },
     {
       "name": "For the People",
+      "name_kor": "국민을 위하여",
       "url": "images/survivorPerks/IconPerks_forThePeople.png"
     },
     {
       "name": "Head On",
+      "name_kor": "정면충돌",
       "url": "images/survivorPerks/IconPerks_headOn.png"
     },
     {
       "name": "Hope",
+      "name_kor": "희망",
       "url": "images/survivorPerks/IconPerks_hope.png"
     },
     {
       "name": "Inner Strength",
+      "name_kor": "내면의 힘",
       "url": "images/survivorPerks/IconPerks_innerStrength.png"
     },
     {
       "name": "Iron Will",
+      "name_kor": "굳건한 의지",
       "url": "images/survivorPerks/IconPerks_ironWill.png"
     },
     {
       "name": "Kindred",
+      "name_kor": "동질감",
       "url": "images/survivorPerks/IconPerks_kindred.png"
     },
     {
       "name": "Leader",
+      "name_kor": "리더",
       "url": "images/survivorPerks/IconPerks_leader.png"
     },
     {
       "name": "Left Behind",
+      "name_kor": "홀로 남겨진 자",
       "url": "images/survivorPerks/IconPerks_leftBehind.png"
     },
     {
       "name": "Lightweight",
+      "name_kor": "경량화",
       "url": "images/survivorPerks/IconPerks_lightweight.png"
     },
     {
       "name": "Lithe",
+      "name_kor": "유연함",
       "url": "images/survivorPerks/IconPerks_lithe.png"
     },
     {
       "name": "Lucky Break",
+      "name_kor": "행운",
       "url": "images/survivorPerks/IconPerks_luckyBreak.png"
     },
     {
       "name": "Mettle of Man",
+      "name_kor": "남자의 패기",
       "url": "images/survivorPerks/IconPerks_mettleOfMan.png"
     },
     {
       "name": "No Mither",
+      "name_kor": "신경 쓰지 마",
       "url": "images/survivorPerks/IconPerks_noMither.png"
     },
     {
       "name": "No One Left Behind",
+      "name_kor": "아무도 버려두지 않아",
       "url": "images/survivorPerks/IconPerks_noOneLeftBehind.png"
     },
     {
       "name": "Object of Obsession",
+      "name_kor": "집착의 대상",
       "url": "images/survivorPerks/IconPerks_objectOfObsession.png"
     },
     {
       "name": "Off the Record",
+      "name_kor": "비공개 조건",
       "url": "images/survivorPerks/IconPerks_offTheRecord.png"
     },
     {
       "name": "Open-Handed",
+      "name_kor": "통찰력",
       "url": "images/survivorPerks/IconPerks_open-Handed.png"
     },
     {
       "name": "Pharmacy",
+      "name_kor": "약제학",
       "url": "images/survivorPerks/IconPerks_pharmacy.png"
     },
     {
       "name": "Plunderer's Instinct",
+      "name_kor": "약탈자의 본능",
       "url": "images/survivorPerks/IconPerks_plunderersInstinct.png"
     },
     {
       "name": "Poised",
+      "name_kor": "침착",
       "url": "images/survivorPerks/IconPerks_poised.png"
     },
     {
       "name": "Power Struggle",
+      "name_kor": "힘찬 발버둥",
       "url": "images/survivorPerks/IconPerks_powerStruggle.png"
     },
     {
       "name": "Premonition",
+      "name_kor": "불길한 예감",
       "url": "images/survivorPerks/IconPerks_premonition.png"
     },
     {
       "name": "Prove Thyself",
+      "name_kor": "자기 증명",
       "url": "images/survivorPerks/IconPerks_proveThyself.png"
     },
     {
       "name": "Quick & Quiet",
+      "name_kor": "빠르고 조용하게",
       "url": "images/survivorPerks/IconPerks_quickAndQuiet.png"
     },
     {
       "name": "Red Herring",
+      "name_kor": "오보",
       "url": "images/survivorPerks/IconPerks_redHerring.png"
     },
     {
       "name": "Repressed Alliance",
+      "name_kor": "억압된 동맹",
       "url": "images/survivorPerks/IconPerks_repressedAlliance.png"
     },
     {
       "name": "Resilience",
+      "name_kor": "회복력",
       "url": "images/survivorPerks/IconPerks_resilience.png"
     },
     {
       "name": "Resurgence",
+      "name_kor": "부활",
       "url": "images/survivorPerks/IconPerks_resurgence.png"
     },
     {
       "name": "Rookie Spirit",
+      "name_kor": "신입의 패기",
       "url": "images/survivorPerks/IconPerks_rookieSpirit.png"
     },
     {
       "name": "Saboteur",
+      "name_kor": "공작원",
       "url": "images/survivorPerks/IconPerks_saboteur.png"
     },
     {
       "name": "Second Wind",
+      "name_kor": "새로운 활력",
       "url": "images/survivorPerks/IconPerks_secondWind.png"
     },
     {
       "name": "Self-Care",
+      "name_kor": "자가 치료",
       "url": "images/survivorPerks/IconPerks_self-Care.png"
     },
     {
       "name": "Self-Preservation",
+      "name_kor": "자기 보호",
       "url": "images/survivorPerks/IconPerks_self-Preservation.png"
     },
     {
       "name": "Slippery Meat",
+      "name_kor": "미끈한 고기",
       "url": "images/survivorPerks/IconPerks_slipperyMeat.png"
     },
     {
       "name": "Small Game",
+      "name_kor": "작은 사냥감",
       "url": "images/survivorPerks/IconPerks_smallGame.png"
     },
     {
       "name": "Smash Hit",
+      "name_kor": "대 히트",
       "url": "images/survivorPerks/IconPerks_smashHit.png"
     },
     {
       "name": "Sole Survivor",
+      "name_kor": "유일한 생존자",
       "url": "images/survivorPerks/IconPerks_soleSurvivor.png"
     },
     {
       "name": "Solidarity",
+      "name_kor": "연대",
       "url": "images/survivorPerks/IconPerks_solidarity.png"
     },
     {
       "name": "Soul Guard",
+      "name_kor": "소울 가드",
       "url": "images/survivorPerks/IconPerks_soulGuard.png"
     },
     {
       "name": "Spine Chill",
+      "name_kor": "등골이 오싹해",
       "url": "images/survivorPerks/IconPerks_spineChill.png"
     },
     {
       "name": "Sprint Burst",
+      "name_kor": "전력 질주",
       "url": "images/survivorPerks/IconPerks_sprintBurst.png"
     },
     {
       "name": "Stake Out",
+      "name_kor": "잠복 근무",
       "url": "images/survivorPerks/IconPerks_stakeOut.png"
     },
     {
       "name": "Streetwise",
+      "name_kor": "노련함",
       "url": "images/survivorPerks/IconPerks_streetwise.png"
     },
     {
       "name": "Technician",
+      "name_kor": "기술자",
       "url": "images/survivorPerks/IconPerks_technician.png"
     },
     {
       "name": "Tenacity",
+      "name_kor": "집념",
       "url": "images/survivorPerks/IconPerks_tenacity.png"
     },
     {
       "name": "This Is Not Happening",
+      "name_kor": "이런 일이 일어나다니",
       "url": "images/survivorPerks/IconPerks_thisIsNotHappening.png"
     },
     {
       "name": "Up the Ante",
+      "name_kor": "판돈 올리기",
       "url": "images/survivorPerks/IconPerks_upTheAnte.png"
     },
     {
       "name": "Unbreakable",
+      "name_kor": "불굴",
       "url": "images/survivorPerks/IconPerks_unbreakable.png"
     },
     {
       "name": "Urban Evasion",
+      "name_kor": "세련된 회피",
       "url": "images/survivorPerks/IconPerks_urbanEvasion.png"
     },
     {
       "name": "Vigil",
+      "name_kor": "불침번",
       "url": "images/survivorPerks/IconPerks_vigil.png"
     },
     {
       "name": "Visionary",
+      "name_kor": "선견지명",
       "url": "images/survivorPerks/IconPerks_visionary.png"
     },
     {
       "name": "Wake Up!",
+      "name_kor": "정신 차려!",
       "url": "images/survivorPerks/IconPerks_wakeUp.png"
     },
     {
       "name": "We'll Make It",
+      "name_kor": "우린 해낼거야",
       "url": "images/survivorPerks/IconPerks_wellMakeIt.png"
     },
     {
       "name": "We're Gonna Live Forever",
+      "name_kor": "우리는 영원히 살거야",
       "url": "images/survivorPerks/IconPerks_wereGonnaLiveForever.png"
     },
     {
       "name": "Windows of Opportunity",
+      "name_kor": "기회의 창",
       "url": "images/survivorPerks/IconPerks_windowsOfOpportunity.png"
     }
   ],
   "items": [
     {
       "name": "Alex's Toolbox",
+      "name_kor": "알렉스의 공구상자",
       "url" : "images/survivorItems/Alex's_Toolbox.png"
     },
     {
       "name": "Broken Key",
+      "name_kor": "부러진 열쇠",
       "url" : "images/survivorItems/Broken_Key.png"
     },
     {
       "name": "Camping Aid Kit",
+      "name_kor": "캠핑용 구급상자",
       "url" : "images/survivorItems/Camping_Aid_Kit.png"
     },
     {
       "name": "Chinese Firecracker",
+      "name_kor": "중국산 폭죽",
       "url" : "images/survivorItems/Chinese_Firecracker.png"
     },
     {
       "name": "Commodious Toolbox",
+      "name_kor": "대형 공구상자",
       "url" : "images/survivorItems/Commodious_Toolbox.png"
     },
     {
       "name": "Dull Key",
+      "name_kor": "무딘 열쇠",
       "url" : "images/survivorItems/Dull_Key.png"
     },
     {
       "name": "Emergency Med-Kit",
+      "name_kor": "비상용 구급상자",
       "url" : "images/survivorItems/Emergency_Med-Kit.png"
     },
     {
       "name": "Engineer's Toolbox",
+      "name_kor": "기술자의 공구상자",
       "url" : "images/survivorItems/Engineer's_Toolbox.png"
     },
     {
       "name": "First Aid Kit",
+      "name_kor": "구급상자",
       "url" : "images/survivorItems/First_Aid_Kit.png"
     },
     {
       "name": "Flashlight",
+      "name_kor": "손전등",
       "url" : "images/survivorItems/Flashlight.png"
     },
     {
       "name": "Map",
+      "name_kor": "지도",
       "url" : "images/survivorItems/Map.png"
     },
     {
       "name": "Mechanic's Toolbox",
+      "name_kor": "기계공의 공구상자",
       "url" : "images/survivorItems/Mechanic's_Toolbox.png"
     },
     {
       "name": "Rainbow Map",
+      "name_kor": "무지개 지도",
       "url" : "images/survivorItems/Rainbow_Map.png"
     },
     {
       "name": "Ranger Med-Kit",
+      "name_kor": "경관의 구급상자",
       "url" : "images/survivorItems/Ranger_Med-Kit.png"
     },
     {
       "name": "Skeleton Key",
+      "name_kor": "만능 열쇠",
       "url" : "images/survivorItems/Skeleton_Key.png"
     },
     {
       "name": "Sport Flashlight",
+      "name_kor": "운동용 손전등",
       "url" : "images/survivorItems/Sport_Flashlight.png"
     },
     {
       "name": "Toolbox",
+      "name_kor": "공구상자",
       "url" : "images/survivorItems/Toolbox.png"
     },
     {
       "name": "Utility Flashlight",
+      "name_kor": "다용도 손전등",
       "url" : "images/survivorItems/Utility_Flashlight.png"
     },
     {
       "name": "Winter Party Starter",
+      "name_kor": "겨울 파티 주최자",
       "url" : "images/survivorItems/Winter_Party_Starter.png"
     },
     {
       "name": "Worn-Out Tools",
+      "name_kor": "낡은 공구상자",
       "url" : "images/survivorItems/Worn-Out_Tools.png"
     }
 
@@ -467,214 +582,267 @@
   "addOns": [
     {
       "name": "Abdominal Dressing",
+      "name_kor": "압박붕대",
       "url": "images/survivorAddon/Abdominal Dressing.png"
     },
     {
       "name": "Anti-Haemorrhagic Syringe",
+      "name_kor": "항 출혈 주사기",
       "url": "images/survivorAddon/Anti-Haemorrhagic Syringe.png"
     },
     {
       "name": "Bandages",
+      "name_kor": "붕대",
       "url": "images/survivorAddon/Bandages.png"
     },
     {
       "name": "Battery",
+      "name_kor": "배터리",
       "url": "images/survivorAddon/Battery.png"
     },
     {
       "name": "Black Silk Cord",
+      "name_kor": "검은색 비단 끈",
       "url": "images/survivorAddon/Black Silk Cord.png"
     },
     {
       "name": "Blood Amber",
+      "name_kor": "핏빛 호박",
       "url": "images/survivorAddon/Blood Amber.png"
     },
     {
       "name": "Brand New Part",
+      "name_kor": "새로운 부품",
       "url": "images/survivorAddon/Brand New Part.png"
     },
     {
       "name": "Butterfly Tape",
+      "name_kor": "다공성 반창고",
       "url": "images/survivorAddon/Butterfly Tape.png"
     },
     {
       "name": "Clean Rag",
+      "name_kor": "깨끗한 천",
       "url": "images/survivorAddon/Clean Rag.png"
     },
     {
       "name": "Crystal Bead",
+      "name_kor": "수정 구슬",
       "url": "images/survivorAddon/Crystal Bead.png"
     },
     {
       "name": "Cutting Wire",
+      "name_kor": "커팅용 와이어",
       "url": "images/survivorAddon/Cutting Wire.png"
     },
     {
       "name": "Eroded Token",
+      "name_kor": "풍화된 징표",
       "url": "images/survivorAddon/Eroded Token.png"
     },
     {
       "name": "Focus Lens",
+      "name_kor": "포커스 렌즈",
       "url": "images/survivorAddon/Focus Lens.png"
     },
     {
       "name": "Gauze Roll",
+      "name_kor": "거즈 두루마리",
       "url": "images/survivorAddon/Gauze Roll.png"
     },
     {
       "name": "Gel Dressings",
+      "name_kor": "젤 패드",
       "url": "images/survivorAddon/Gel Dressings.png"
     },
     {
       "name": "Glass Bead",
+      "name_kor": "유리 구슬",
       "url": "images/survivorAddon/Glass Bead.png"
     },
     {
       "name": "Gold Token",
+      "name_kor": "금색 징표",
       "url": "images/survivorAddon/Gold Token.png"
     },
     {
       "name": "Grip Wrench",
+      "name_kor": "그립 렌치",
       "url": "images/survivorAddon/Grip Wrench.png"
     },
     {
       "name": "Hacksaw",
+      "name_kor": "쇠톱",
       "url": "images/survivorAddon/Hacksaw.png"
     },
     {
       "name": "Heavy Duty Battery",
+      "name_kor": "대용량 배터리",
       "url": "images/survivorAddon/Heavy Duty Battery.png"
     },
     {
       "name": "High-End Sapphire Lens",
+      "name_kor": "최고급 수정 렌즈",
       "url": "images/survivorAddon/High-End Sapphire Lens.png"
     },
     {
       "name": "Instructions",
+      "name_kor": "설명",
       "url": "images/survivorAddon/Instructions.png"
     },
     {
       "name": "Intense Halogen",
+      "name_kor": "강력한 할로겐 전구",
       "url": "images/survivorAddon/Intense Halogen.png"
     },
     {
       "name": "Leather Grip",
+      "name_kor": "가죽 손잡이",
       "url": "images/survivorAddon/Leather Grip.png"
     },
     {
       "name": "Long Life Battery",
+      "name_kor": "오래 가는 배터리",
       "url": "images/survivorAddon/Long Life Battery.png"
     },
     {
       "name": "Low Amp Filament",
+      "name_kor": "저전압 필라멘트",
       "url": "images/survivorAddon/Low Amp Filament.png"
     },
     {
       "name": "Map Addendum",
+      "name_kor": "지도 부록",
       "url": "images/survivorAddon/Map Addendum.png"
     },
     {
       "name": "Milky Glass",
+      "name_kor": "젖빛 유리",
       "url": "images/survivorAddon/Milky Glass.png"
     },
     {
       "name": "Needle & Thread",
+      "name_kor": "실과 바늘",
       "url": "images/survivorAddon/Needle & Thread.png"
     },
     {
       "name": "Odd Bulb",
+      "name_kor": "정체불명의 전구",
       "url": "images/survivorAddon/Odd Bulb.png"
     },
     {
       "name": "Odd Stamp",
+      "name_kor": "이상한 도장",
       "url": "images/survivorAddon/Odd Stamp.png"
     },
     {
       "name": "Power Bulb",
+      "name_kor": "손전등용 전구",
       "url": "images/survivorAddon/Power Bulb.png"
     },
     {
       "name": "Prayer Beads",
+      "name_kor": "기도 염주",
       "url": "images/survivorAddon/Prayer Beads.png"
     },
     {
       "name": "Prayer Rope",
+      "name_kor": "기도 매듭",
       "url": "images/survivorAddon/Prayer Rope.png"
     },
     {
       "name": "Protective Gloves",
+      "name_kor": "보호 장갑",
       "url": "images/survivorAddon/Protective Gloves.png"
     },
     {
       "name": "Red Twine",
+      "name_kor": "붉은색 노끈",
       "url": "images/survivorAddon/Red Twine.png"
     },
     {
       "name": "Retardant Jelly",
+      "name_kor": "지연성 젤리",
       "url": "images/survivorAddon/Retardant Jelly.png"
     },
     {
       "name": "Rubber Gloves",
+      "name_kor": "작업용 장갑",
       "url": "images/survivorAddon/Rubber Gloves.png"
     },
     {
       "name": "Rubber Grip",
+      "name_kor": "고무 손잡이",
       "url": "images/survivorAddon/Rubber Grip.png"
     },
     {
       "name": "Scraps",
+      "name_kor": "잡동사니",
       "url": "images/survivorAddon/Scraps.png"
     },
     {
       "name": "Scratched Pearl",
+      "name_kor": "흠집이 난 진주",
       "url": "images/survivorAddon/Scratched Pearl.png"
     },
     {
       "name": "Self Adherent Wrap",
+      "name_kor": "자기 접착 붕대",
       "url": "images/survivorAddon/Self Adherent Wrap.png"
     },
     {
       "name": "Socket Swivels",
+      "name_kor": "회전고리 소켓",
       "url": "images/survivorAddon/Socket Swivels.png"
     },
     {
       "name": "Sponge",
+      "name_kor": "스펀지",
       "url": "images/survivorAddon/Sponge.png"
     },
     {
       "name": "Spring Clamp",
+      "name_kor": "스프링 클램프",
       "url": "images/survivorAddon/Spring Clamp.png"
     },
     {
       "name": "Styptic Agent",
+      "name_kor": "항출혈제",
       "url": "images/survivorAddon/Styptic Agent.png"
     },
     {
       "name": "Surgical Suture",
+      "name_kor": "수술용 봉합선",
       "url": "images/survivorAddon/Surgical Suture.png"
     },
     {
       "name": "Tir Optic",
+      "name_kor": "집중반사경",
       "url": "images/survivorAddon/Tir Optic.png"
     },
     {
       "name": "Unusual Stamp",
+      "name_kor": "특이한 도장",
       "url": "images/survivorAddon/Unusual Stamp.png"
     },
     {
       "name": "Weaved Ring",
+      "name_kor": "엮어낸 반지",
       "url": "images/survivorAddon/Weaved Ring.png"
     },
     {
       "name": "Wide Lens",
+      "name_kor": "와이드 렌즈",
       "url": "images/survivorAddon/Wide Lens.png"
     },
     {
       "name": "Wire Spool",
+      "name_kor": "와이어 스풀",
       "url": "images/survivorAddon/Wire Spool.png"
     },
     {
       "name": "Yellow Wire",
+      "name_kor": "노란색 전선",
       "url": "images/survivorAddon/Yellow Wire.png"
     }
 

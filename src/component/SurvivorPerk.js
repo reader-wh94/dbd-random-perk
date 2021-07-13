@@ -37,7 +37,8 @@ function SurvivorPerk() {
             <div>
               <img className="perkImg" src={perks[detail].url} alt="pic" />
             </div>
-            <span className="perkName">{perks[detail].name}</span>
+            <div className="perkName">{perks[detail].name}</div>
+            <div className="perkName">{perks[detail].name_kor}</div>
           </div>
         );
       }));
@@ -50,7 +51,8 @@ function SurvivorPerk() {
             <div>
               <img className="itemImg" src={items[detail].url} alt="pic" />
             </div>
-            <span className="itemName">{items[detail].name}</span>
+            <div className="itemName">{items[detail].name}</div>
+            <div className="itemName">{items[detail].name_kor}</div>
           </div>
         );
       }));
@@ -63,7 +65,8 @@ function SurvivorPerk() {
             <div>
               <img className="addOnImg" src={addOns[detail].url} alt="pic" />
             </div>
-            <span className="addOnName">{addOns[detail].name}</span>
+            <div className="addOnName">{addOns[detail].name}</div>
+            <div className="addOnName">{addOns[detail].name_kor}</div>
           </div>
         );
       }));
