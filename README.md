@@ -14,7 +14,7 @@ And you can use this page from this [link](https://reader-wh94.github.io/dbd-ran
 
 <br/>
 
-Currently, this site has been updated to Leon S. Kennedy
+Currently, this site has been updated to Mikaela Raid
 
 <br/><br/>
 
