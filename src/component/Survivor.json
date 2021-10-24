@@ -474,6 +474,21 @@
       "name": "Windows of Opportunity",
       "name_kor": "기회의 창",
       "url": "images/survivorPerks/IconPerks_windowsOfOpportunity.png"
+    },
+    {
+      "name": "Clairvoyance",
+      "name_kor": "예지력",
+      "url": "images/survivorPerks/IconPerks_clairvoyance.png"
+    },
+    {
+      "name": "Boon: Circle of Healing",
+      "name_kor": "호재: 치료의 순환",
+      "url": "images/survivorPerks/IconPerks_boonCircleOfHealing.png"
+    },
+    {
+      "name": "Boon: Shadow Step",
+      "name_kor": "호재: 그림자 미행",
+      "url": "images/survivorPerks/IconPerks_boonShadowStep.png"
     }
   ],
   "items": [
