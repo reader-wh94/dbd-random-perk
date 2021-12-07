@@ -489,6 +489,20 @@
       "name": "Boon: Shadow Step",
       "name_kor": "호재: 그림자 미행",
       "url": "images/survivorPerks/IconPerks_boonShadowStep.png"
+    },
+    {
+      "name": "Boon: Expotential",
+      "name_kor": "호재: 지수",
+      "url": "images/survivorPerks/IconPerks_boonExponential.png"
+    },
+    {
+      "name": "Overcome",
+      "name_kor": "극복",
+      "url": "images/survivorPerks/IconPerks_overcome.png"
+    },{
+      "name": "Corrective Action",
+      "name_kor": "교정 조치",
+      "url": "images/survivorPerks/IconPerks_correctiveAction.png"
     }
   ],
   "items": [
