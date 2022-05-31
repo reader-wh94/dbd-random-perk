@@ -499,10 +499,41 @@
       "name": "Overcome",
       "name_kor": "극복",
       "url": "images/survivorPerks/IconPerks_overcome.png"
-    },{
+    },
+    {
       "name": "Corrective Action",
       "name_kor": "교정 조치",
       "url": "images/survivorPerks/IconPerks_correctiveAction.png"
+    },
+    {
+      "name": "Parenta lGuidance",
+      "name_kor": "보호자 지도",
+      "url": "images/survivorPerks/IconPerks_parentalGuidance.png"
+    },
+    {
+      "name": "Empathic Connection",
+      "name_kor": "공감대 형성",
+      "url": "images/survivorPerks/IconPerks_empathicConnection.png"
+    },
+    {
+      "name": "Boon: Dark Theory",
+      "name_kor": "호재: 암흑 이론",
+      "url": "images/survivorPerks/IconPerks_boonDarkTheory.png"
+    },
+    {
+      "name": "Inner Focus",
+      "name_kor": "내부 초점",
+      "url": "images/survivorPerks/IconPerks_innerFocus.png"
+    },
+    {
+      "name": "Residual Manifest",
+      "name_kor": "남은 출현",
+      "url": "images/survivorPerks/IconPerks_residualManifest.png"
+    },
+    {
+      "name": "Overzealous",
+      "name_kor": "지나친 열성",
+      "url": "images/survivorPerks/IconPerks_overzealous.png"
     }
   ],
   "items": [
